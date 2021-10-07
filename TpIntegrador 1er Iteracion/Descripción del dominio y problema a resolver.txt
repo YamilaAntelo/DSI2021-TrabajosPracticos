@@ -1,0 +1,11 @@
+Descripción del dominio y problema a resolver
+
+Mostrar todos los productos que se encuentran en stock y a su vez todos los combos que puede llegar a 
+tener un producto.
+
+El usuario debe poder visualizar el listado actualizado de productos con sus respectivos combos.
+
+Teniendo ya registrados los productos comprobar cuales son los que se encuentran en stock y luego comprobar
+ si es parte de algún combo y si también hay stock de los productos del combo, después mostrar el producto y 
+por otro lado también mostrar los combos en los que participa ese producto en el sitio. 
+
